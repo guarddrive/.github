@@ -1,0 +1,31 @@
+name: 🐜 Technical Anomaly Report
+description: Report a bug or anomaly in forensic telemetry.
+labels: ["bug", "anomalia"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🧪 Forensic Context
+        Provide details about the telemetry state when the anomaly occurred.
+  - type: input
+    id: signature
+    attributes:
+      label: TRINITY-SIG / SHA-256
+      description: The cryptographic hash of the failing packet.
+  - type: textarea
+    id: description
+    attributes:
+      label: Anomaly Description
+      description: What happened?
+      placeholder: e.g., G-Force impact threshold exceeded without forensic flag.
+    validations:
+      required: true
+  - type: dropdown
+    id: layer
+    attributes:
+      label: Affected Layer
+      options:
+        - L1 (Edge Hardware)
+        - L2 (Gateway)
+        - L3 (Themis Validation)
+        - Presentation (Dashboard)
