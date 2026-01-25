@@ -1,14 +1,18 @@
 <div align="center">
+  <img src="profile/org_branding.png" width="100%" alt="GuardDrive Organization Branding">
+</div>
 
-# � GuardDrive
+<div align="center">
+
+# 🛡️ GuardDrive
 
 **Enterprise-grade intelligent platform for sustainable vehicle technology**
 
 [![Symbeon Protocol](https://img.shields.io/badge/Powered_by-Symbeon_Protocol-purple)](https://github.com/guarddrive/symbeon-protocol)
 [![SEVE Framework](https://img.shields.io/badge/Ethical_AI-SEVE_Framework-green)](https://github.com/guarddrive)
-[![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)](https://github.com/guarddrive)
+[![Status](https://img.shields.io/badge/Status-Deep_Tech_Ready-brightgreen)](https://github.com/guarddrive)
 
-*Building the future of intelligent, sustainable mobility*
+*Building the future of intelligent, sovereign, and sustainable mobility*
 
 </div>
 
@@ -18,8 +22,9 @@
 
 | Repository | Description | Status |
 |:---|:---|:---|
-| **[guarddrive-pilot](https://github.com/guarddrive/guarddrive-pilot)** | 🎯 Dashboard demo for Centelha - Real-time vehicle monitoring | ✅ Production |
-| **[symbeon-protocol](https://github.com/guarddrive/symbeon-protocol)** | Cryptographic validation and forensic tokenization engine | ✅ Production |
+| **[guarddrive-pilot](https://github.com/guarddrive/guarddrive-pilot)** | 🎯 V3.0 Command Center - High-fidelity Digital Twin & Forensic View | ✅ Production |
+| **[symbeon-protocol](https://github.com/guarddrive/symbeon-protocol)** | Cryptographic validation and forensic tokenization engine (Core IP) | ✅ Production |
+| **[city-twin-engine](https://github.com/guarddrive/city-twin-engine)** | 🌆 City-agnostic geospatial simulation core for mobility validation | ✅ Available |
 | **[guarddrive-sdk](https://github.com/guarddrive/guarddrive-sdk)** | Official Python SDK with AI, Blockchain, and ESG modules | ✅ Production |
 | **[guarddrive-mcp](https://github.com/guarddrive/guarddrive-mcp)** | Model Context Protocol for DevOps automation | ✅ Production |
 | **[guarddrive-core](https://github.com/guarddrive/guarddrive-core)** | Main platform with multi-language architecture (Rust, Python, JS) | ✅ Production |
@@ -42,7 +47,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │                    MULTI-LANGUAGE CORE                          │
 ├─────────────────────────────────────────────────────────────────┤
-│  � Rust    │  Neural evolution, distributed cache, monitoring  │
+│  🏎️ Rust    │  Neural evolution, distributed cache, monitoring  │
 │  🐍 Python  │  AI/ML, blockchain, ESG calculations              │
 │  🟨 JS/TS   │  Frontend, APIs, MCP servers                      │
 │  ⛓️ Solidity│  Smart contracts, token minting                   │
@@ -61,7 +66,7 @@
 
 ---
 
-## � Quick Start
+## 🚀 Quick Start
 
 ```bash
 # Install SDK
