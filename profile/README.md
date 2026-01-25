@@ -18,6 +18,7 @@
 
 | Repository | Description | Status |
 |:---|:---|:---|
+| **[guarddrive-pilot](https://github.com/guarddrive/guarddrive-pilot)** | 🎯 Dashboard demo for Centelha - Real-time vehicle monitoring | ✅ Production |
 | **[symbeon-protocol](https://github.com/guarddrive/symbeon-protocol)** | Cryptographic validation and forensic tokenization engine | ✅ Production |
 | **[guarddrive-sdk](https://github.com/guarddrive/guarddrive-sdk)** | Official Python SDK with AI, Blockchain, and ESG modules | ✅ Production |
 | **[guarddrive-mcp](https://github.com/guarddrive/guarddrive-mcp)** | Model Context Protocol for DevOps automation | ✅ Production |
