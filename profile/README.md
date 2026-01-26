@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/org_branding.png" width="100%" alt="GuardDrive Organization Branding">
+  <img src="org_branding.png" width="100%" alt="GuardDrive Organization Branding">
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ## 📖 Our Story: A Solid Foundation for Universal Trust
 
-![GuardDrive Solid Foundation](profile/solid_foundation.png)
+![GuardDrive Solid Foundation](solid_foundation.png)
 
 **GuardDrive** was engineered to solve a fundamental crisis in modern mobility: the erosion of trust in automotive data. As vehicle autonomy and connectivity expand, the need for a solid, undeniable base of forensic truth became paramount.
 
@@ -38,7 +38,7 @@ Our strategy is **Protocol-First**: We build the infrastructure of truth that ot
 
 ## 🎯 The Gateway: GuardDrive Pilot V3.0
 
-![City Twin Engine Gateway](profile/city_twin_engine.png)
+![City Twin Engine Gateway](city_twin_engine.png)
 
 The **GuardDrive Pilot** is our primary geospatial gateway. It is a high-fidelity **Digital Twin** that virtualizes urban environments (starting with our Living Lab in Salvador, BA) to demonstrate the power of our forensic and ethical engines in real-time.
 
