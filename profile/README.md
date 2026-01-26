@@ -18,6 +18,8 @@
 
 ## 📖 Our Story: A Solid Foundation for Universal Trust
 
+![GuardDrive Solid Foundation](profile/solid_foundation.png)
+
 **GuardDrive** was engineered to solve a fundamental crisis in modern mobility: the erosion of trust in automotive data. As vehicle autonomy and connectivity expand, the need for a solid, undeniable base of forensic truth became paramount.
 
 We positioned **GuardDrive** as the premiere sovereign vertical for mobility forensics. By integrating the world-class **Symbeon Protocol** into its core, we've established a bedrock of high-confidence infrastructure where every kilometer is auditably proven, ethically weighted by the **SEVE Framework**, and secured by **Distributed Consensus (67%)**.
@@ -35,6 +37,8 @@ Our strategy is **Protocol-First**: We build the infrastructure of truth that ot
 ---
 
 ## 🎯 The Gateway: GuardDrive Pilot V3.0
+
+![City Twin Engine Gateway](profile/city_twin_engine.png)
 
 The **GuardDrive Pilot** is our primary geospatial gateway. It is a high-fidelity **Digital Twin** that virtualizes urban environments (starting with our Living Lab in Salvador, BA) to demonstrate the power of our forensic and ethical engines in real-time.
 
