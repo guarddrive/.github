@@ -29,7 +29,7 @@
 
 ## 🏛️ The Foundation: Decentralized Forensic Truth
 
-![GuardDrive Automotive Cybersecurity Blueprints](https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_technical_blueprints_v3.png)
+![GuardDrive Sovereign Infrastructure Base](https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/concept_infrastructure_base.png)
 
 **GuardDrive** is the world’s first high-confidence vertical for autonomous and connected vehicle forensics. As transportation shifts into data-driven ecosystems, we provide the **undeniable base of truth** required for institutional trust, legal auditability, and insurance precision.
 
