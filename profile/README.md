@@ -14,7 +14,7 @@
 
 **Establishing Absolute Truth and Economic Value through High-Confidence Telematic Forensics.**
 
-[![Powered by Symbeon](https://img.shields.io/badge/Scale-Industrial_Sovereignty-purple?style=for-the-badge)](https://github.com/guarddrive)
+[![Powered by Symbeon](https://img.shields.io/badge/Scale-Industrial_Sovereignty-blue?style=for-the-badge)](https://github.com/guarddrive)
 [![Ethical AI](https://img.shields.io/badge/Rigor-Trinity_Protocol-blue?style=for-the-badge)](https://github.com/guarddrive)
 [![Audit Status](https://img.shields.io/badge/Security-ZK_Privacy-black?style=for-the-badge)](https://github.com/guarddrive)
 
@@ -49,11 +49,11 @@ The **GuardDrive Pilot** serves as our primary geospatial portal. It is a high-f
   <tr>
     <td align="center" width="33%">
       <img src="assets/guarddrive_edge_device_v2_premium_1769670033446.png" width="100%" alt="GuardDrive Edge Device Root of Trust Hardware"><br>
-      <b>Industrial Hardware</b><br>V2 Premium Root of Trust
+      <b>Industrial Hardware</b><br>V3 Serious Root of Trust
     </td>
     <td align="center" width="33%">
       <img src="assets/guarddrive_esg_tokenization_diagram_v2_ultra_1769670255269.png" width="100%" alt="ESG Telematic Tokenization Blockchain Logic"><br>
-      <b>ESG Tokenization</b><br>V2 Ultra Blockchain Logic
+      <b>ESG Tokenization</b><br>V3 Green Infrastructure
     </td>
     <td align="center" width="33%">
       <img src="assets/guarddrive_vehicle_forensics_diagram_premium_1769670445923.png" width="100%" alt="Vehicle Forensics Evidence Analytics"><br>
@@ -67,9 +67,7 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 ---
 
-<div align="center">
-
-<img src="assets/guarddrive_logo_premium_gold_black_1769670424716.png" width="200px" alt="GuardDrive Premium Gold & Black Institutional Logo"><br>
+<img src="assets/guarddrive_logo_minimalist_corporate_v3_1769670582314.png" width="200px" alt="GuardDrive Serious Corporate Logo V3"><br>
 **Division of Symbeon Labs**
 
 *Engineering Trust. Monetizing Truth. Securing the Future.*
