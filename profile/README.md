@@ -10,7 +10,7 @@
 
 **Establishing Absolute Truth and Economic Value through High-Confidence Telematic Forensics.**
 
-<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/guarddrive_brand_system_final_v4.png" width="100%" alt="GuardDrive Brand System"><br>
+<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/guarddrive_brand_system_final_v4.png" width="250px" alt="GuardDrive Official Logo"><br>
 
 **Division of Symbeon Labs**
 <br>
