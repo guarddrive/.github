@@ -115,6 +115,7 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 ### 🔗 Ecosystem Navigation
 - **[GuardDrive Pilot](https://guarddrive-pilot.vercel.app)**: Public Digital Twin demonstration and technical portal
+- **[Organizational Strategy](STRATEGY.md)**: 2026-2030 Roadmap and Strategic Pillars
 - **Technical Documentation**: Available in Pilot repository (`/docs`)
 - **Sovereign Vault**: Private IP repository (access by institutional partnership only)
 
