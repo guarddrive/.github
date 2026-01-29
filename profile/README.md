@@ -16,23 +16,15 @@
 
 ---
 
-## 📖 Our Story: A Solid Foundation for Universal Trust
+## 🏛️ The Trinity: Sovereign Infrastructure Architecture
 
-![GuardDrive Solid Foundation](solid_foundation.png)
+Our ecosystem is organized into a **Triple-Repo** structure to balance transparency, public presence, and industrial sovereignty:
 
-**GuardDrive** was engineered to solve a fundamental crisis in modern mobility: the erosion of trust in automotive data. As vehicle autonomy and connectivity expand, the need for a solid, undeniable base of forensic truth became paramount.
-
-We positioned **GuardDrive** as the premiere sovereign vertical for mobility forensics. By integrating the world-class **Symbeon Protocol** into its core, we've established a bedrock of high-confidence infrastructure where every kilometer is auditably proven, ethically weighted by the **SEVE Framework**, and secured by **Distributed Consensus (67%)**.
-
----
-
-## ♟️ Strategic Positioning: The Sovereign Vertical
-
-**GuardDrive** acts as the material implementation of the Symbeon-SEVE stack for the transportation industry. It provides the solid base necessary for governments, insurers, and fleet operators to deploy autonomous and regenerative mobility with absolute forensic certainty.
-
-While our core architecture remains under **IP Lockdown** to protect long-term sovereignty and strategic value, our ecosystem is built on **9 Private Repositories** (The Guardians) that handle everything from low-level Rust performance to high-level geospatial simulation.
-
-Our strategy is **Protocol-First**: We build the infrastructure of truth that others will use to build the future.
+| Layer | Repository | Mission |
+| :--- | :--- | :--- |
+| **🚀 Pilot** | [pilot](https://github.com/guarddrive/guarddrive-pilot) | Official Website, Branding, and Public Digital Twin portal. |
+| **📋 Submission** | [submission-portal](https://github.com/guarddrive/submission-portal) | Sanitized technical proof for grants (Centelha III) and investors. |
+| **🔐 Vault** | **[guarddrive-vault]** (Private) | The Sovereign "Brain": Strategic IP, Patents, NDAs, and Audits. |
 
 ---
 
@@ -40,7 +32,7 @@ Our strategy is **Protocol-First**: We build the infrastructure of truth that ot
 
 ![City Twin Engine Gateway](city_twin_engine.png)
 
-The **GuardDrive Pilot** is our primary geospatial gateway. It is a high-fidelity **Digital Twin** that virtualizes urban environments (starting with our Living Lab in Salvador, BA) to demonstrate the power of our forensic and ethical engines in real-time.
+The **GuardDrive Pilot** is our public-facing terminal. It is a high-fidelity **Digital Twin** that virtualizes urban environments (Living Lab Salvador) to demonstrate the SEVE-Symbeon protocol at work.
 
 > **[Explore the Command Center](https://guarddrive-pilot.vercel.app)**  
 > *Material proof of the SEVE-Symbeon protocol at work.*
