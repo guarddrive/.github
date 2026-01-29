@@ -16,25 +16,20 @@
 
 ---
 
-## 🏛️ The Trinity: Sovereign Infrastructure Architecture
+## 🏗️ Ecosystem Architecture
 
-Our ecosystem is organized into a **Triple-Repo** structure to balance transparency, public presence, and industrial sovereignty:
+Our ecosystem is engineered as a unified, high-confidence vertical for mobility forensics. We balance public transparency for urban integration with strict industrial sovereignty.
 
-| Layer | Repository | Mission |
-| :--- | :--- | :--- |
-| **🚀 Pilot** | [pilot](https://github.com/guarddrive/guarddrive-pilot) | Official Website, Branding, and Public Digital Twin portal. |
-| **📋 Submission** | [submission-portal](https://github.com/guarddrive/submission-portal) | Sanitized technical proof for grants (Centelha III) and investors. |
-| **🔐 Vault** | **[guarddrive-vault]** (Private) | The Sovereign "Brain": Strategic IP, Patents, NDAs, and Audits. |
-
----
-
-## 🎯 The Gateway: GuardDrive Pilot V3.0
-
-![City Twin Engine Gateway](city_twin_engine.png)
-
-The **GuardDrive Pilot** is our public-facing terminal. It is a high-fidelity **Digital Twin** that virtualizes urban environments (Living Lab Salvador) to demonstrate the SEVE-Symbeon protocol at work.
+### 🚀 The Gateway: GuardDrive Pilot
+The **GuardDrive Pilot** is our public-facing terminal and high-fidelity **Digital Twin**. It virtualizes urban environments (Living Lab Salvador) to demonstrate the SEVE-Symbeon protocol at work.
 
 > **[Explore the Command Center](https://guarddrive-pilot.vercel.app)**  
+> *Material proof of the SEVE-Symbeon protocol in real-time.*
+
+### 📋 Public Verification
+For grant evaluators, a sanitized technical showcase is available in our **submission-portal**, demonstrating our TRL 6+ readiness without compromising core strategic IP.
+
+---
 > *Material proof of the SEVE-Symbeon protocol at work.*
 
 ---
