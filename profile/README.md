@@ -87,7 +87,6 @@ The **GuardDrive Pilot** serves as our primary geospatial portal. It is a high-f
 <table align="center">
   <tr>
     <td align="center" width="33%">
-    <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_hardware_edge_v2.png" width="100%" alt="GuardDrive Edge Device Root of Trust Hardware"><br>
       <b>Industrial Hardware</b><br>V3 Serious Root of Trust
     </td>
