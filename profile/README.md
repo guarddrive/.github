@@ -136,6 +136,6 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 **Division of Symbeon Labs**
 
-*Engineering Trust. Monetizing Truth. Securing the Future.*
+
 
 </div>
