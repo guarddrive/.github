@@ -16,9 +16,9 @@
 
 ---
 
-## �️ The Bedrock of Forensics
+## 🏛️ The Bedrock of Forensics
 
-![GuardDrive Solid Foundation](assets/solid_foundation.png)
+![GuardDrive Industrial Blueprints](assets/guarddrive_technical_blueprints_v3_1769670603759.png)
 
 **GuardDrive** is the world's first high-confidence vertical for mobility forensics. As vehicles evolve into autonomous, data-driven nodes, we provide the undeniable base of truth required for institutional trust.
 
@@ -37,21 +37,21 @@ The **GuardDrive Pilot** serves as our primary geospatial command center. It is 
 
 ---
 
-## � Institutional Pillars
+## 💎 Institutional Pillars
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/edge_device.png" width="100%"><br>
-      <b>Industrial Hardware</b><br>Root of Trust
+      <img src="assets/guarddrive_edge_device_v2_premium_1769670033446.png" width="100%"><br>
+      <b>Industrial Hardware</b><br>V2 Premium Root of Trust
     </td>
     <td align="center" width="33%">
-      <img src="assets/smart_city.png" width="100%"><br>
-      <b>Urban Integration</b><br>V2X Ecosystem
+      <img src="assets/guarddrive_esg_tokenization_diagram_v2_ultra_1769670255269.png" width="100%"><br>
+      <b>ESG Tokenization</b><br>V2 Ultra Diagram
     </td>
     <td align="center" width="33%">
-      <img src="assets/dashboard.png" width="100%"><br>
-      <b>Forensic Analytics</b><br>Real-Time Validaton
+      <img src="assets/guarddrive_vehicle_forensics_diagram_premium_1769670445923.png" width="100%"><br>
+      <b>Forensic Analytics</b><br>Premium Validation
     </td>
   </tr>
 </table>
@@ -63,7 +63,8 @@ All core algorithmic logic and strategic IP are protected under **Sovereign IP L
 
 <div align="center">
 
-**Operated by [SH1W4](https://github.com/guarddrive)**
+<img src="assets/guarddrive_logo_minimalist_corporate_v3_1769670582314.png" width="150px"><br>
+**Operated by [SH1W4](https://github.com/guarddrive) / Symbeon Labs**
 
 *Transforming raw telemetry into sovereign trust since 2025.*
 
