@@ -73,7 +73,7 @@ We transmute verified driving behavior into **GuardScore Tokens (GST)**, enablin
 
 ## 🚀 The Hub: Strategic Digital Twin Command Center
 
-![City Twin Engine Digital Twin Mobility](assets/city_twin_engine.png)
+![City Twin Engine Digital Twin Mobility](https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_city_twin_engine.png)
 
 The **GuardDrive Pilot** serves as our primary geospatial portal. It is a high-fidelity **Digital Twin** designed to virtualize urban mobility environments, demonstrating the real-world application of our forensic validation engines.
 
@@ -87,15 +87,16 @@ The **GuardDrive Pilot** serves as our primary geospatial portal. It is a high-f
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/guarddrive_edge_device_v2_premium_1769670033446.png" width="100%" alt="GuardDrive Edge Device Root of Trust Hardware"><br>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_hardware_edge_v2.png" width="100%" alt="GuardDrive Edge Device Root of Trust Hardware"><br>
       <b>Industrial Hardware</b><br>V3 Serious Root of Trust
     </td>
     <td align="center" width="33%">
-      <img src="assets/guarddrive_esg_tokenization_diagram_v2_ultra_1769670255269.png" width="100%" alt="ESG Telematic Tokenization Blockchain Logic"><br>
+      <img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_esg_tokenization_v2.png" width="100%" alt="ESG Telematic Tokenization Blockchain Logic"><br>
       <b>ESG Tokenization</b><br>V3 Green Infrastructure
     </td>
     <td align="center" width="33%">
-      <img src="assets/guarddrive_vehicle_forensics_diagram_premium_1769670445923.png" width="100%" alt="Vehicle Forensics Evidence Analytics"><br>
+      <img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_vehicle_forensics_premium.png" width="100%" alt="Vehicle Forensics Evidence Analytics"><br>
       <b>Forensic Analytics</b><br>High-Confidence Validation
     </td>
   </tr>
@@ -132,7 +133,7 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 <div align="center">
 
-<img src="assets/guarddrive_logo_minimalist_corporate_v3_1769670582314.png" width="200px" alt="GuardDrive Official Monochrome Logo"><br>
+<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/brand_logo_monochrome_icon_v3.png" width="200px" alt="GuardDrive Official Monochrome Logo"><br>
 
 **Division of Symbeon Labs**
 
