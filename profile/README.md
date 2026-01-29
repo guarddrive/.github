@@ -32,6 +32,40 @@ By integrating the **Symbeon Protocol** and the **Trinity Rigor Standard**, we t
 
 ---
 
+## ⚡ Core Technologies: The Sovereign Stack
+
+### 🔐 ZK-Privacy Layer
+Our **Zero-Knowledge Privacy** implementation ensures LGPD and GDPR compliance by design. Sensitive telematic data is validated without exposing raw behavioral patterns, enabling institutional audits while preserving driver privacy.
+
+### 🛡️ PoPE (Proof of Physical Evidence)
+The **Proof of Physical Evidence** protocol establishes hardware-backed chain of custody. Every data point is cryptographically signed at the edge (Secure Element/HSM), creating immutable forensic trails admissible in legal proceedings.
+
+### 🎯 Trinity Protocol
+Our operational framework balances three critical dimensions:
+- **N (Narrative)**: ESG value engineering and stakeholder alignment
+- **T (Technical)**: TRL 6+ validation and algorithmic rigor
+- **C (Compliance)**: Regulatory conformity and audit readiness
+
+### 💎 Behaviour-as-a-Token (BaaT)
+We transmute verified driving behavior into **GuardScore Tokens (GST)**, enabling:
+- Dynamic insurance pricing based on cryptographic proof
+- ESG-compliant fleet monetization
+- Regenerative finance (ReFi) incentive structures
+
+---
+
+## 📊 Impact & Validation
+
+| Metric | Status |
+| :--- | :--- |
+| **Technology Readiness Level** | TRL 6 (Validated in Digital Twin) |
+| **Validation Environment** | Salvador Living Lab (City-Twin-Engine) |
+| **Target Market** | Connected Vehicle Forensics & Smart City Infrastructure |
+| **Institutional Alignment** | Insurance Sector, Law Enforcement, Urban Mobility Governance |
+| **Patent Portfolio** | 3 Strategic Drafts (Framework, Identity, Security) |
+
+---
+
 ## 🚀 The Hub: Strategic Digital Twin Command Center
 
 ![City Twin Engine Digital Twin Mobility](assets/city_twin_engine.png)
@@ -62,8 +96,31 @@ The **GuardDrive Pilot** serves as our primary geospatial portal. It is a high-f
   </tr>
 </table>
 
+---
+
+## 🏛️ Institutional Use Cases
+
+### 🏢 Insurance Sector
+**Automated Claims Processing**: Cryptographically-signed telemetry enables instant, fraud-resistant claims validation. Insurers gain access to immutable evidence chains, reducing investigation costs by up to 70%.
+
+### ⚖️ Law Enforcement & Forensics
+**Criminal Investigation Support**: Our PoPE protocol provides court-admissible evidence for accident reconstruction and criminal cases. Chain of custody is mathematically guaranteed from sensor to courtroom.
+
+### 🌍 Smart Cities & Urban Governance
+**Real-Time Fleet Management**: Municipalities can monitor ESG compliance, optimize traffic flow, and enforce environmental regulations using our Digital Twin validation layer.
+
+### 🚗 Autonomous Vehicle Fleets
+**Trust Layer for L4/L5 Systems**: Autonomous operators require absolute certainty in decision provenance. GuardDrive provides the "black box" infrastructure for algorithmic accountability.
+
+---
+
 ### 🔐 Strategic Sovereignty & IP Security
-Our infrastructure is engineered for global scalability. All core algorithmic logic and strategic assets are protected under **Sovereign IP Lockdown**, ensuring that industrial partners and government entities can audit our frameworks through sanitized технические vitrines and secure private environments.
+Our infrastructure is engineered for global scalability. All core algorithmic logic and strategic assets are protected under **Sovereign IP Lockdown**, ensuring that industrial partners and government entities can audit our frameworks through sanitized technical showcases and secure private environments.
+
+### 🔗 Ecosystem Navigation
+- **[GuardDrive Pilot](https://guarddrive-pilot.vercel.app)**: Public Digital Twin demonstration and technical portal
+- **Technical Documentation**: Available in Pilot repository (`/docs`)
+- **Sovereign Vault**: Private IP repository (access by institutional partnership only)
 
 ---
 
