@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/org_branding.png" width="100%" alt="GuardDrive: Sovereign Mobility Infrastructure & Vehicle Forensics">
+  <img src="assets/org_branding.png" width="60%" alt="GuardDrive: Sovereign Mobility Infrastructure & Vehicle Forensics">
 </div>
 
 <div align="center">
