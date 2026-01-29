@@ -18,7 +18,9 @@
 <a href="https://github.com/guarddrive/guarddrive-pilot">
 	<img src="https://img.shields.io/badge/Code-GuardDrive_Pilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GuardDrive Pilot Repo">
 </a>
-[![Audit Status](https://img.shields.io/badge/Security-ZK_Privacy-black?style=for-the-badge)](https://github.com/guarddrive)
+<a href="https://github.com/guarddrive">
+	<img src="https://img.shields.io/badge/Security-ZK_Privacy-black?style=for-the-badge" alt="Audit Status">
+</a>
 
 </div>
 
