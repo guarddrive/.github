@@ -10,7 +10,7 @@
 
 **Establishing Absolute Truth and Economic Value through High-Confidence Telematic Forensics.**
 
-<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/brand_logo_monochrome_icon_v3.png" width="200px" alt="GuardDrive Official Monochrome Logo"><br>
+<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/brand_logo_monochrome_full.png" width="250px" alt="GuardDrive Official Monochrome Logo"><br>
 
 **Division of Symbeon Labs**
 <br>
@@ -132,7 +132,7 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/brand_logo_monochrome_icon_v3.png" width="200px" alt="GuardDrive Official Monochrome Logo"><br>
+<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/brand_logo_monochrome_full.png" width="200px" alt="GuardDrive Official Monochrome Logo"><br>
 
 **Division of Symbeon Labs**
 
