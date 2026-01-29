@@ -21,6 +21,9 @@
 <a href="https://github.com/guarddrive">
 	<img src="https://img.shields.io/badge/Security-ZK_Privacy-black?style=for-the-badge" alt="Audit Status">
 </a>
+<a href="https://github.com/orgs/guarddrive/discussions">
+	<img src="https://img.shields.io/badge/Community-Join_Discussion-black?style=for-the-badge&logo=github&logoColor=white" alt="Join the Community">
+</a>
 
 </div>
 
