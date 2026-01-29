@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/org_branding.png" width="60%" alt="GuardDrive: Sovereign Mobility Infrastructure & Vehicle Forensics">
+  <img src="assets/org_branding.png" width="100%" alt="GuardDrive: Sovereign Mobility Infrastructure & Vehicle Forensics">
 </div>
 
 <div align="center">
@@ -67,11 +67,9 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 ---
 
----
-
 <div align="center">
 
-<img src="assets/guarddrive_logo_minimalist_corporate_v3_1769670582314.png" width="180px" alt="GuardDrive Official Monochrome Shield"><br>
+<img src="assets/guarddrive_logo_gold_detail_official.png" width="180px" alt="GuardDrive Official Logo"><br>
 **Division of Symbeon Labs**
 
 *Engineering Trust. Monetizing Truth. Securing the Future.*
