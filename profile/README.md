@@ -67,7 +67,11 @@ Our infrastructure is engineered for global scalability. All core algorithmic lo
 
 ---
 
-<img src="assets/guarddrive_logo_minimalist_corporate_v3_1769670582314.png" width="200px" alt="GuardDrive Serious Corporate Logo V3"><br>
+---
+
+<div align="center">
+
+<img src="assets/guarddrive_logo_minimalist_corporate_v3_1769670582314.png" width="180px" alt="GuardDrive Official Monochrome Shield"><br>
 **Division of Symbeon Labs**
 
 *Engineering Trust. Monetizing Truth. Securing the Future.*
