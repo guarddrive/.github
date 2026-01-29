@@ -4,10 +4,6 @@
 -->
 
 <div align="center">
-  <img src="assets/org_branding.png" width="100%" alt="GuardDrive: Sovereign Mobility Infrastructure & Vehicle Forensics">
-</div>
-
-<div align="center">
 
 # 🦅 GUARDDRIVE
 ## The Global Standard for Sovereign Mobility Infrastructure
