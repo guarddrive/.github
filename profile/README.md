@@ -10,8 +10,17 @@
 
 **Establishing Absolute Truth and Economic Value through High-Confidence Telematic Forensics.**
 
-[![Powered by Symbeon](https://img.shields.io/badge/Scale-Industrial_Sovereignty-blue?style=for-the-badge)](https://github.com/guarddrive)
-[![Ethical AI](https://img.shields.io/badge/Rigor-Trinity_Protocol-blue?style=for-the-badge)](https://github.com/guarddrive)
+<img src="https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/brand_logo_monochrome_icon_v3.png" width="200px" alt="GuardDrive Official Monochrome Logo"><br>
+
+**Division of Symbeon Labs**
+<br>
+
+<a href="https://guarddrive-pilot.vercel.app">
+	<img src="https://img.shields.io/badge/Official_Site-Access_Portal-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Official Website">
+</a>
+<a href="https://github.com/guarddrive/guarddrive-pilot">
+	<img src="https://img.shields.io/badge/Code-GuardDrive_Pilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GuardDrive Pilot Repo">
+</a>
 [![Audit Status](https://img.shields.io/badge/Security-ZK_Privacy-black?style=for-the-badge)](https://github.com/guarddrive)
 
 </div>
@@ -20,7 +29,7 @@
 
 ## 🏛️ The Foundation: Decentralized Forensic Truth
 
-![GuardDrive Automotive Cybersecurity Blueprints](assets/guarddrive_technical_blueprints_v3_1769670603759.png)
+![GuardDrive Automotive Cybersecurity Blueprints](https://raw.githubusercontent.com/guarddrive/.github/main/profile/assets/diagram_technical_blueprints_v3.png)
 
 **GuardDrive** is the world’s first high-confidence vertical for autonomous and connected vehicle forensics. As transportation shifts into data-driven ecosystems, we provide the **undeniable base of truth** required for institutional trust, legal auditability, and insurance precision.
 
